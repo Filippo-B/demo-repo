@@ -1,13 +1,3 @@
-# Readme Example
+# Test Repo
 
-This is an example of a README file!
-
-## Subheader
-
-I made this locally with VSCode.
-
-## Branch
-
-I'm writing this sentence in a branch.
-
-Have fun
+This is just a test repository.
